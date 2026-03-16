@@ -22,7 +22,7 @@
 
 # TECHNOLOGY COLOPHON
 
-    Devops,MySQL
+    Devops,MySQL,Shell Scripting
     HTML,CSS
     Machine Learning, AWS, Google Cloud
     AWS Solution Architect Developer
