@@ -17,4 +17,4 @@ Adding GIT Comparisons Lecture.
 Adding new Lectures of Stash. 
 
 ## GIT rebase
-pactice git rebase
+pactice git rebase vs merge
