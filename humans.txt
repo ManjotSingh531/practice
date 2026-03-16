@@ -18,11 +18,11 @@
 
 # THANKS
 
-    Thanks to all my students.
+    Thanks to all my friends.
 
 # TECHNOLOGY COLOPHON
 
-    Devops,MySQL
+    Devops,MySQL,Shell Scripting
     HTML,CSS
     Machine Learning, AWS, Google Cloud
     AWS Solution Architect Developer
