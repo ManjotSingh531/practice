@@ -26,3 +26,5 @@
     HTML,CSS
     Machine Learning, AWS, Google Cloud
     AWS Solution Architect Developer
+
+Hello everyone
