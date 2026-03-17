@@ -20,3 +20,5 @@ Adding new Lectures of Stash.
 ## GIT rebase
 pactice git rebase vs merge
 Thank you
+
+Nothing
